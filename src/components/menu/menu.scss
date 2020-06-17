@@ -1,0 +1,16 @@
+@import "src/App.scss";
+
+nav .content__nav{
+    padding: .5rem;
+    h3{
+        color: $roxo;
+    }
+    ul{
+        list-style: none;
+        padding-left: 0px;
+
+        li{
+            margin: .5rem 0;
+        }
+    }
+}

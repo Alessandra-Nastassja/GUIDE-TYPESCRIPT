@@ -1,0 +1,8 @@
+@import "src/App.scss";
+
+header .content__header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 0;
+}

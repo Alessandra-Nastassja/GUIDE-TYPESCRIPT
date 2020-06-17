@@ -1,10 +1,19 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
+
+import Home from './components/home/home';
+import Menu from './components/menu/menu';
+import Header from './components/header/header';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <section className="container">
+      <Menu />
+      <main>
+        <Header />
+        <Home />
+      </main>
+    </section>
   );
 }
 

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+$rosa: #ffb9db;
+$roxo: #9175db;
+$zinza: #f6f6f6;
+$preto: #000000;
+$cinza: #666666;
+$cinza-claro: #eeeeee;
+$cinza-claro2: #f6f6f6;
+$branco: #ffffff;
+
+body{
+    font-family: 'Manrope', sans-serif;
+}
+
+.hidden {
+    display:none;
+}
+
+section.container{
+    display: flex;
+    flex-direction: row;
+
+    main{
+        width: 100%;
+        padding: 1rem;
+    }
+}

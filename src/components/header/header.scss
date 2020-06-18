@@ -5,4 +5,10 @@ header .content__header{
     flex-direction: row;
     justify-content: space-between;
     padding: 1rem 0;
+    
+    .header__title{
+        h4{
+            color: $roxo;
+        }
+    }
 }

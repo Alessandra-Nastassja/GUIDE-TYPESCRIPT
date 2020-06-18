@@ -10,7 +10,7 @@ const Header = () => {
                     lorem
                 </div>
                 <div className="header__title">
-                    lorem
+                    <h4> Guia TypeScript</h4>
                 </div>
             </div>
         </header>

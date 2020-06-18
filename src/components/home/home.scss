@@ -3,6 +3,18 @@
 section .content__home{
     .home--header{
         width: 50%;
+
+        h1{
+            font-size: 3em;
+            margin: 0px;
+        }
+        p{
+            font-size: 1.1em;
+        }
+        a{
+            color: $preto;
+            text-decoration: underline;
+        }
     }
     .home--body{
         display: flex;
@@ -11,6 +23,25 @@ section .content__home{
         div{
             width: 50%;
             padding: .5rem;
+        }
+        div.home--coding{
+            border-left: 1px solid $cinza-claro;
+
+            p.code{
+                span:nth-child(1){
+                    color: $roxo;
+                }
+                span:nth-child(2){
+                    color: $rosa;
+                }
+            }
+            p.commit{
+                color: $cinza;
+
+                span{
+                    margin-right: 5px;
+                }
+            }
         }
     }
 }

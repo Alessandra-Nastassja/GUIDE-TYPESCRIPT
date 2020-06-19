@@ -6,13 +6,9 @@ const Menu = () => {
     return (
         <nav>
             <div className="content__nav">
-                <h3>Lorem ipsum</h3>
+                <h3>Typescript</h3>
                 <ul>
-                    <li>Lorem ipsum</li>
-                    <li>Lorem ipsum</li>
-                    <li>Lorem ipsum</li>
-                    <li>Lorem ipsum</li>
-                    <li>Lorem ipsum</li>
+                    <li>Variáveis</li>
                 </ul>
             </div>
         </nav>

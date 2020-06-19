@@ -1,16 +1,22 @@
 @import "src/App.scss";
 
-nav .content__nav{
-    padding: .5rem;
-    h3{
-        color: $roxo;
-    }
-    ul{
-        list-style: none;
-        padding-left: 0px;
+nav {
+    position: fixed;
+    height: 100%;
+    background-color: $cinza-claro2;
+    
+    .content__nav {
+        padding: 0.5rem;
+        h3 {
+            color: $roxo;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0px;
 
-        li{
-            margin: .5rem 0;
+            li {
+                margin: 0.5rem 0;
+            }
         }
     }
 }

@@ -17,7 +17,7 @@ const Home = () => {
                     </p>
                 </div>
                 <div className="home--body">
-                    <div>
+                    <div id="variaveis">
                         <h2>Variáveis</h2>
                         <p>Exite alguns tipos de vairiáveis, como por exemplo: boolean, string, number .</p>
                     </div>

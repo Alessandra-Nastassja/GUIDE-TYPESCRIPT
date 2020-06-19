@@ -14,4 +14,9 @@
 
 ## Sobre o projeto: ⭐
 
+Feito com amor 💜.
+
 ## Resultado: ✔️
+O projeto esta em desenvolvimento, mas esta a carinha que ele esta ficando...
+
+![Screenshot from 2020-06-18 22-35-11](https://user-images.githubusercontent.com/27302446/85087487-0daea380-b1b4-11ea-8700-eeb3265865bd.png)

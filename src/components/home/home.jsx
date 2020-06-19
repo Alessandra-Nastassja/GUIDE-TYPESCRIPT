@@ -10,10 +10,11 @@ const Home = () => {
                     <h1>Typescript</h1>
                     <p>
                         É um superset do Javascript. Basicamente, tem uma tipagem estática!
+
+                        <a href="https://www.notion.so/TypeScript-500a4f3ce12442f98716e26eac857c6d" target="_black">
+                            Saiba mais.
+                        </a>
                     </p>
-                    <a href="https://www.notion.so/TypeScript-500a4f3ce12442f98716e26eac857c6d" target="_black">
-                        <span role="img" aria-label="icon book">📙</span> Notion
-                    </a>
                 </div>
                 <div className="home--body">
                     <div>

@@ -16,7 +16,47 @@
 
 Feito com amor 💜.
 
+### Tecnologias utilizadas:
+
+*Front-end*
+
+* [React](https://pt-br.reactjs.org/)
+
+### Como rodar ? 
+
+Segue abaixo como rodar o projeto. 
+
 ## Resultado: ✔️
 O projeto esta em desenvolvimento, mas esta a carinha que ele esta ficando...
 
 ![Screenshot from 2020-06-18 22-35-11](https://user-images.githubusercontent.com/27302446/85087487-0daea380-b1b4-11ea-8700-eeb3265865bd.png)
+
+******
+## Como contribuir ? 😽
+
+* Dê um **fork** esse repositório;
+![]()
+
+* Após, crie uma **branch** com a sua feature:
+
+```
+git checkout -b my-feature
+```
+
+* Agora, **commit** suas mudanças: 
+
+```
+git commit -m 'feat: My new feature'
+```
+
+* E por último, **push** a sua branch: 
+
+```
+git push origin my-feature
+```
+
+> Obs.: Senão souber mexer no git me chame no linkedin ou twitter que irei te ajudar. 
+******
+## Licença 🗒️
+
+

@@ -14,7 +14,8 @@
 
 ## Sobre o projeto: ⭐
 
-Feito com amor 💜.
+Seguindo o mini [curso](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) de Typescript apresentado pelo @William-Justen, foi pensando em um simples guia para estudo e aprendizado do super set TypeScript. Feito com amor 💜.
+
 
 ### Tecnologias utilizadas:
 
